@@ -1,2 +1,3 @@
 # BioinformaticsClub2021
-Stuff.
+
+This is the repository for Bioinformatics Club Spring 2021 UDallas.
